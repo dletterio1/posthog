@@ -6,7 +6,6 @@ __pycache__/
 .dlt
 .dmypy.json
 .DS_Store
-.env*
 .eslintcache
 .idea
 .mypy_cache
@@ -126,3 +125,4 @@ CODE_REVIEW.md
 CODE_DEBUGGING_SESSION.md
 
 data/seaweedfs
+config.bat
